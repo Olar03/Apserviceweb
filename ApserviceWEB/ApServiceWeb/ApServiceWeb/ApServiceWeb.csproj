@@ -125,6 +125,10 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Paginas\Estilos\adminlte.css" />
+    <Content Include="Paginas\Estilos\adminlte.min.css" />
+    <Content Include="Paginas\Estilos\all.min.css" />
+    <Content Include="Paginas\Estilos\styles.css" />
     <Content Include="Paginas\RegistroCliente.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -213,7 +217,6 @@
     <Folder Include="Clases\" />
     <Folder Include="Controladores\" />
     <Folder Include="Modelos\" />
-    <Folder Include="Paginas\Estilos\" />
     <Folder Include="Paginas\Scripts\" />
   </ItemGroup>
   <ItemGroup>
