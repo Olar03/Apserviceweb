@@ -130,6 +130,7 @@
     <Content Include="Paginas\Estilos\all.min.css" />
     <Content Include="Paginas\Estilos\styles.css" />
     <Content Include="Paginas\RegistroCliente.html" />
+    <Content Include="Paginas\Scripts\RegistroCliente.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -217,7 +218,6 @@
     <Folder Include="Clases\" />
     <Folder Include="Controladores\" />
     <Folder Include="Modelos\" />
-    <Folder Include="Paginas\Scripts\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
